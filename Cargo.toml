@@ -1,0 +1,7 @@
+[package]
+name = "clap-test"
+version = "0.1.0"
+authors = ["Mitchel Humpherys <mitch.special@gmail.com>"]
+
+[dependencies]
+clap = "*"
